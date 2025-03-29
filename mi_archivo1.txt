@@ -1,0 +1,2 @@
+Python es un buen lenguaje de programacion, es mas facill de entender y su 
+codigo es mas corto y sencillo
