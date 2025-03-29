@@ -1,0 +1,6 @@
+CREATE TABLE LABOR(
+    LaborChargeCode INTEGER PRIMARY KEY,
+    TaskDescription CHAR(40),
+    StandardCharger CurrencyDom);
+    
+)
